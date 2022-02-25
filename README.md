@@ -1,4 +1,4 @@
-# **PHT Wheather Station - ARDUINO**
+# **PHT Weather Station - ARDUINO**
 
 # **Materials**
 
