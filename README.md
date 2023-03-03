@@ -49,7 +49,7 @@
     pht/city/city_id/sensor/sensor_id topics.
 
     sensor_id = 1 for temperature
-    sensor_id = 2 fro humidity
+    sensor_id = 2 for humidity
     sensor_id = 3 for air pollution
 
 <br>
